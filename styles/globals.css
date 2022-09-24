@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+@layer base{
+    body{
+        @apply bg-[#121212] text-white/[.87] tracking-wide
+    }
+
+    h1, h2, h3 ,h4, h5, h6{
+        @apply font-bold
+    }
+
+    h1 {
+        @apply text-4xl sm:text-5xl md:text-5xl
+    }
+
+    h2 {
+        @apply text-2xl sm:text-3xl
+    }
+        
+    li {
+        @apply cursor-pointer
+    }
+    
+    /* button {
+        @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white
+    } */
+}
+
+@layer components {
+    .gradient{
+        background-color:#acff99;
+        background-image:
+        radial-gradient(at 100% 11%, hsla(253,96%,70%,1) 0px, transparent 50%),
+        radial-gradient(at 64% 40%, hsla(60,100%,65%,1) 0px, transparent 50%),
+        radial-gradient(at 5% 54%, hsla(171,93%,61%,1) 0px, transparent 50%),
+        radial-gradient(at 9% 21%, hsla(258,86%,64%,1) 0px, transparent 50%),
+        radial-gradient(at 78% 91%, hsla(260,67%,66%,1) 0px, transparent 50%),
+        radial-gradient(at 2% 66%, hsla(260,92%,66%,1) 0px, transparent 50%),
+        radial-gradient(at 20% 74%, hsla(259,93%,70%,1) 0px, transparent 50%);
+    }
+}
