@@ -170,7 +170,7 @@ function Navbar({needbg}) {
                   </div>
                 </a>
                 <a
-                  href='https://www.google.com/'
+                  href='https://github.com/RamySobhieh'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -186,7 +186,7 @@ function Navbar({needbg}) {
                     <AiOutlineMail className="group-hover:text-[#8105D8] duration-300 ease-in" />
                   </div>
                 </Link>
-                <Link href='/resume'>
+                <Link href='https://drive.google.com/uc?export=download&id=1se9-zu54F69MBsdbjuJCvM728tC16fur'>
                   <div
                     onClick={() => setNav(!nav)}
                     className='rounded-full shadow-md shadow-[#121212] bg-[#3a3b3c] p-3 cursor-pointer hover:scale-105 ease-in duration-300 group'

@@ -50,7 +50,7 @@ function Main() {
                     <AiOutlineMail />
                 </div>
                 </Link>
-                <Link href='/resume'>
+                <Link href='https://drive.google.com/uc?export=download&id=1se9-zu54F69MBsdbjuJCvM728tC16fur'>
                 <div className='rounded-full shadow-lg bg-[#3a3b3c] shadow-[#121212] p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <BsFillPersonLinesFill />
                 </div>

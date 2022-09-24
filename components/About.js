@@ -53,7 +53,9 @@ function About() {
         I started studying javascript and became even more enthusiastic about creating interactive websites. 
         I'm currently developing frontend apps with React JS and studying new technologies and backend development.
         </p>
-        <button type="button" className="rounded-lg text-[#8105D8] hover:text-white/[0.87] border border-[#8105D8] hover:bg-[#8105D8] focus:ring-4 focus:outline-none focus:ring-purple-300 font-medium text-m px-5 py-2.5 text-center mr-2 mb-2 ease-in duration-150 h-[60px] w-[200px] uppercase">Download Resume</button>
+        <a href="https://drive.google.com/uc?export=download&id=1se9-zu54F69MBsdbjuJCvM728tC16fur">
+          <button type="button" className="rounded-lg text-[#8105D8] hover:text-white/[0.87] border border-[#8105D8] hover:bg-[#8105D8] focus:ring-4 focus:outline-none focus:ring-purple-300 font-medium text-m px-5 py-2.5 text-center mr-2 mb-2 ease-in duration-150 h-[60px] w-[200px] uppercase">Download Resume</button>
+        </a>
       </div>
       <div className='w-[60%] md:w-[80%] h-auto m-auto flex items-center justify-center rounded-lg'>
         <div className="relative group">

@@ -22,7 +22,7 @@ const Home: NextPage = () => {
     <div className="scroll-smooth">
       <Head>
         <title>Ramy Sobhieh</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/RSLogo.ico" />
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700;900&display=swap" rel="stylesheet"></link>
       </Head>
       <Navbar needbg={inView} />
