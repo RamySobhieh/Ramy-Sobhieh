@@ -28,7 +28,7 @@ function Main() {
             </p>
             <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
                 <a
-                href='https://www.linkedin.com/in/clint-briley-50056920a/'
+                href='https://www.linkedin.com/in/ramy-sobhieh-0b06b8251/'
                 target='_blank'
                 rel='noreferrer'
                 >
@@ -37,7 +37,7 @@ function Main() {
                 </div>
                 </a>
                 <a
-                href='https://github.com/fireclint'
+                href='https://github.com/RamySobhieh'
                 target='_blank'
                 rel='noreferrer'
                 >
