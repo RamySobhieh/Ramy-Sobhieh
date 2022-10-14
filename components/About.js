@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import AboutImg from '../public/assets/suit man.jpg';
+import AboutImg from '../public/assets/Neon Portrait small.png';
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { useEffect } from "react";
