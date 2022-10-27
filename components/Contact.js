@@ -153,7 +153,7 @@ function Contact() {
                         <div className="space-y-4">
                             <div className="flex flex-row w-full items-center justify-start ">
                                 <HiPhone className="w-8 h-8 mr-6 text-[#FE59D7]"/>
-                                <p className="text-lg tracking-wide cursor-pointer">+961 70616764</p>
+                                <p className="text-lg tracking-wide cursor-text">+961 70616764</p>
                             </div>
                             <div className="flex flex-row w-full items-center justify-start">
                                 <HiOutlineMail className="w-8 h-8 mr-6 text-[#FE59D7]"/>
