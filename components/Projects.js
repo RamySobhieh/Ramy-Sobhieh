@@ -85,13 +85,13 @@ function Projects() {
                   <Image src={Music} alt="/" width="300" height="150"></Image>
                 </div>
                 <div className="flex justify-center items-center h-[70px] w-full bg-[#8105D8] space-x-10">
-                  <Link href="/">
+                  <Link href="https://spotify-redesigned.vercel.app/">
                     <div className="text-white/[0.87] hover:text-[#FE59D7] duration-150 ease-in cursor-pointer">
                       <AiOutlineLink className="w-8 h-8" />
                     </div>
                   </Link>
 
-                  <Link href="/">
+                  <Link href="https://github.com/RamySobhieh/spotify-redesigned">
                     <div className="text-white/[0.87] hover:text-[#FE59D7] duration-150 ease-in cursor-pointer">
                       <FaGithub className="w-8 h-8" />
                     </div>
